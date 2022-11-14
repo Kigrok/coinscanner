@@ -1,6 +1,7 @@
 # Telegram Bot _[VCoinScannerBot](https://t.me/VCoinScannerBot)_
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![\[Telegram\] aiogram live](https://img.shields.io/badge/telegram-aiogram-blue.svg?style=flat-square)
 
 ![First Page in Bot](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPey7enyxwP18z5Im0ABV-KSI5LPVtz79DTqwZM5uhvCZUXwCroBdU5wfeiw0WyBVDhABOzcRyJmd7I0x00iByd0F6kAg=w1366-h663)
