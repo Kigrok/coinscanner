@@ -109,6 +109,7 @@ export CHANNEL='your channel name(format: @channel)'
 
 # DataBase 
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 Create DataBase
 ```sh
 python3 cdb.py
